@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "DataConvert",
-        "repositoryURL": "https://github.com/L1MeN9Yu/DataConvert.git",
+        "repositoryURL": "https://github.com/jccapril/DataConvert.git",
         "state": {
           "branch": null,
-          "revision": "80321bcda52eca42602368d60b928dbe3d5e356c",
-          "version": "1.0.0"
+          "revision": "e725d50668e3da0e13f40fd4e73bea24c21b3e1b",
+          "version": "1.0.2"
         }
       }
     ]

@@ -22,7 +22,7 @@ let package = Package(
         .library(name: "LevelDB", targets: ["LevelDB"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/L1MeN9Yu/DataConvert.git", from: "1.0.0"),
+        .package(url: "https://github.com/jccapril/DataConvert.git", from: "1.0.0"),
     ],
     targets: [
         .target(name: "CLMDB"),
